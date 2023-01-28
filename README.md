@@ -7,7 +7,7 @@ This is a small application written in React + TypeSCript. It uses the GitHub AP
 >:notebook:Tasks
   + Add and remove repositories
   + Routing
-  + Pagination
+  + Search users
 
 
 ## Getting Started:airplane:
